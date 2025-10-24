@@ -1,4 +1,5 @@
 from cvss import CVSS3, CVSS4
+import os
 
 # CVSS v3.1 metrics with short descriptions and valid values
 CVSS3_METRICS = {
