@@ -112,11 +112,8 @@ Enter your full CVSS vector: AT:N/AV:N/AC:L/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/S
 ## 🛠️ Customize & Extend
 
 Want more? Fork and add:
-- 🔹 **Severity labels** (e.g., `Critical`, `High`)
 - 🔹 **JSON/YAML output** for integration with ticketing systems
 - 🔹 **Batch mode** for scoring multiple vectors
-- 🔹 **Colorized output** with `rich` or `colorama`
-
 ---
 
 ## 📜 License
